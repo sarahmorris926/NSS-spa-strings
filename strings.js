@@ -3,6 +3,7 @@ let output = document.getElementById("output");
 let btn = document.getElementById("btn");
 let testString = "";
 
+
 btn.addEventListener("click", function () {
   testString = input.value;
 });
